@@ -1,0 +1,9 @@
+Class main{
+public static void main(String [] args)
+  {
+  if(==true)
+    return "Project1"
+  else 
+    return "Failed
+ }
+}
